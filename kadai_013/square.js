@@ -1,6 +1,7 @@
 const multiple = (num) => {
-  console.log(num*num);
+  return num*num;
 
 }
 
-multiple(100);
+console.log(multiple(100));
+
